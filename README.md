@@ -1,4 +1,4 @@
-# App that Allow Change Colors Dinamically
+# Slidable
 
 ![Image1 of App](example1.png)
 
